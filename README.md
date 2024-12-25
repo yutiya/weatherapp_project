@@ -1,0 +1,2 @@
+# weatherapp_project
+Flutter项目，使用定位获取当前天气，使用openweather免费api
